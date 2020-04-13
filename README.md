@@ -16,10 +16,9 @@
 **Remember**
 
 ## There is always _chocolate_ **and** 
-
 ***CATS***
 
 ![babyyoda](https://assets1.ignimgs.com/2019/12/01/twitter-in-stream-wide-baby-yoda-soup-mandalorian-1575172376899.jpg)
 
 
-```C# also Baby Yoda is the cutest.```
+```also Baby Yoda is the cutest.```

@@ -7,17 +7,17 @@
 - Take stock of all achivements from big to little they all mean growth.
 - Think of all the things I can do now that I couldn't before learning it in all feilds of life
 
-1. this is a number list
-1. this is another in the list
-1. Another one
+1. Don't give up
+1. Look forward
+1. Learn from mistakes
 
-# This is a second unordered list
+~~# Some days will be turture but...
 
-2. This is another list
-2. This is still another list
-2. And again
+**Remember**
+
+##There is always _chocolate_ **and** ***CATS***
 
 ![babyyoda](https://assets1.ignimgs.com/2019/12/01/twitter-in-stream-wide-baby-yoda-soup-mandalorian-1575172376899.jpg)
 
 
-```C# Baby Yoda is the cutest.```
+```C# also Baby Yoda is the cutest.```

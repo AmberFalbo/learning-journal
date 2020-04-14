@@ -21,3 +21,6 @@
 
 
 ```also Baby Yoda is the cutest.```
+
+### Table of Contents
+[class02 reading](./dailyreading/thecoderscomputer.md)

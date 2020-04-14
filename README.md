@@ -7,6 +7,10 @@
 - Take stock of all achivements from big to little they all mean growth.
 - Think of all the things I can do now that I couldn't before learning it in all feilds of life
 
+### Table of Contents
+- [class02 reading](./dailyreading/thecoderscomputer.md)
+- [class03 reading](./dailyreading/revisionsandthecloud.md)
+
 1. Don't give up
 1. Look forward
 1. Learn from mistakes
@@ -22,6 +26,3 @@
 
 ```also Baby Yoda is the cutest.```
 
-### Table of Contents
-[class02 reading](./dailyreading/thecoderscomputer.md)
-[class03 reading](./dailyreading/revisionsandthecloud.md)

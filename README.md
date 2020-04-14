@@ -24,3 +24,4 @@
 
 ### Table of Contents
 [class02 reading](./dailyreading/thecoderscomputer.md)
+[class03 reading](./dailyreading/revisionsandthecloud.md)

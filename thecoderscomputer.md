@@ -3,9 +3,9 @@
 ### Why is this important?
 
 ## **A Text Editor**
-*The most important tools you can use as an aspiring web developer.
-*Allows you to write and manage a text, a text that you write to built a website.
-*Choose the one that fits you.
+- The most important tools you can use as an aspiring web developer.
+- Allows you to write and manage a text, a text that you write to built a website.
+- Choose the one that fits you.
 
 ### Most Important features are
 1. Code Completion

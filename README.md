@@ -14,6 +14,9 @@
 - [class02 The Coder's Computer](./dailyreading/thecoderscomputer.md)
 - [class03 Revisions and the Cloud](./dailyreading/revisionsandthecloud.md)
 - [class04 Structure web pages with HTML](./dailyreading/structurewebpageswithhtml.md)
+- [class05 Design web pages with CSS](./designwebpageswithcss.md)
+- [class06a Dynamic web pages with JavaScript](./dynamicwebpageswithjavascript.md)
+- [class06b Computer Architecture and Logic](./computerarchitectureandlogic.md)
 
 
 ### **just keep swimming** 

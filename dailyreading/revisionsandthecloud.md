@@ -35,16 +35,15 @@ Code | Outcome
 git status | Determins the state of the files. This indicates which branch you're working on, if files have been tracked or modified.
 git add . | Tracks all filed in a repository, after using then files are tracked and staged for committing.
 git commit -m "made change x,y,z" | Commits staged files and also records a message along with it for yourself and records.
-git push origin master | This command pushes changes from the local "master" branch to the  remote repository named "origin". *For cloned 
+git push origin master | This command pushes changes from the local "master" branch to the  remote repository named "origin". **For cloned repositories, Git will automatically give the name "origin" to the server from which you cloned and the name "master" to your local repository.**
+
+**If you changed anything in GitHub instead of in your DVCS (in this case VScode) even if it ws just a theme then you need the use this commend to reconnect**
+*This will bring it back to being synced in other words!*
+
+```
+git pull origin master
+```
 
 
 
-
-- VCS
-- Git vs. Github
-- local vs remote
-- clone
-- commit
-- ACP
-- deployment
 

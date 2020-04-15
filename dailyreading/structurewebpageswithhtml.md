@@ -26,4 +26,22 @@ The building of your skeleton!
 ![dino skeleton](https://svgsilh.com/svg/2525420.svg)
 
 ### **Extra Markup** *(chapter 8)*
+*
 
+
+### **HTML5 Layout** *(chapter 17)*
+* Introducing a new set of elements that help define the structure of your page.
+    
+![elements](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRBD6qRRURzXMupLQ9bd4SDsRvjiJebntbB2C6f67G24fqNDlXd&usqp=CAU)
+
+
+### **Process & Design** *(chapter 18)*
+
+So you're ready to build your own website!
+* Understand the audience your site may attract and what information they will expecto to find on it.
+    * Every website should be designed for the target audience - not just for yourself or the site owner.
+    * Invent some fictional visitors from your typical target audience. 
+* What are you trying to achieve?
+    * set **Key Motivations & Specific Goals**
+
+![cat party](https://www.publicdomainpictures.net/pictures/310000/velka/cats-party-at-the-campfire.jpg)

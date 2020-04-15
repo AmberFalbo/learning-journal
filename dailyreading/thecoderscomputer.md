@@ -1,3 +1,5 @@
+[Main](./dailyreading/README.md)
+
 # The Coder's Computer
 ## Choosing a Text Editor
 ### Why is this important?

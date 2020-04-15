@@ -4,16 +4,16 @@
 
 ## **Crying and Coding**
 
-```
-This has been the most raw I've felt since I had to cut 200 onions 1/4 inch dice a million years ago in Culinary School but this is worth it!!
-```
+
+>This has been the most raw I've felt since I had to cut 200 onions 1/4 inch dice a million years ago in Culinary School but this is worth it!!
+
 
 
 ### Table of Contents
-- [class01 reading](./dailyreading/growthmindset.md)
-- [class02 reading](./dailyreading/thecoderscomputer.md)
-- [class03 reading](./dailyreading/revisionsandthecloud.md)
-- [class03 reading](./dailyreading/structurewebpageswithhtml.md)
+- [class01 Growth Mindset](./dailyreading/growthmindset.md)
+- [class02 The Coder's Computer](./dailyreading/thecoderscomputer.md)
+- [class03 Revisions and the Cloud](./dailyreading/revisionsandthecloud.md)
+- [class04 Structure web pages with HTML](./dailyreading/structurewebpageswithhtml.md)
 
 
 ### **just keep swimming** 
@@ -27,8 +27,10 @@ This has been the most raw I've felt since I had to cut 200 onions 1/4 inch dice
 
 ## There is always _chocolate_ **and** ***CATS***
 
-![babyyoda](https://assets1.ignimgs.com/2019/12/01/twitter-in-stream-wide-baby-yoda-soup-mandalorian-1575172376899.jpg)
+![babyyoda](https://cdn.pixabay.com/photo/2019/12/20/17/15/yoda-4708878_960_720.jpg)
 
 
-```also Baby Yoda is the cutest.```
+```
+also Baby Yoda is the cutest.
+```
 

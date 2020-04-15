@@ -8,6 +8,7 @@
 - Think of all the things I can do now that I couldn't before learning it in all feilds of life
 
 ### Table of Contents
+- [class01 reading](./dailyreadig/growthmindset.md)
 - [class02 reading](./dailyreading/thecoderscomputer.md)
 - [class03 reading](./dailyreading/revisionsandthecloud.md)
 

@@ -1,4 +1,4 @@
-[Main](./dailyreading/README.md)
+[Main](https://amberfalbo.github.io/learning-journal/)
 
 # The Coder's Computer
 ## Choosing a Text Editor

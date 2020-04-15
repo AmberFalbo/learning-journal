@@ -1,17 +1,22 @@
-# Growth Mindset learning-journal
-## Code 102 learning journal
-### The Growth Mindset is the idea that we can push ourselves to learn new things even when it gets difficult and become inspired by other that do the same. 
+# Amber's learning-journal
+## Code 102 
+### Hello out there to my new world of coding! My previous experience with code was back in the days of **MySpace** *Oh how fun making those pages were, sigh* but now this is the **real deal**! I'm pumped and terrifired.
 
-### Growth Mindset
-- The stuggle means I'm growning and there will be growing pains.
-- Take stock of all achivements from big to little they all mean growth.
-- Think of all the things I can do now that I couldn't before learning it in all feilds of life
+## **Crying and Coding**
+
+```
+This has been the most raw I've felt since I had to cut 200 onions 1/4 inch dice a million years ago in Culinary School but this is worth it!!
+```
+
 
 ### Table of Contents
 - [class01 reading](./dailyreading/growthmindset.md)
 - [class02 reading](./dailyreading/thecoderscomputer.md)
 - [class03 reading](./dailyreading/revisionsandthecloud.md)
+- [class03 reading](./dailyreading/structurewebpageswithhtml.md)
 
+
+### **just keep swimming** 
 1. Don't give up
 1. Look forward
 1. Learn from mistakes

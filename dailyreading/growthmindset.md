@@ -1,4 +1,5 @@
-[Main](./learning-journal.md)
+[Main](https://amberfalbo.github.io/learning-journal/)
+
 
 # Growth Mindset learning-journal
 ## Code 102 learning journal

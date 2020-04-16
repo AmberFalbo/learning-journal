@@ -39,7 +39,7 @@ LOGICAL OR
 LOGICAL NOT
 
 ## Loops
-Loops check a condition. If it returns ‘true’, a code block will run
+Loops check a condition. If it returns `true` , a code block will run
 
 
 ## Loop Counters

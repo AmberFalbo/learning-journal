@@ -18,6 +18,7 @@
 - [class06a Dynamic web pages with JavaScript](./dailyreading/dynamicwebpageswithjavascript.md)
 - [class06b Computer Architecture and Logic](./dailyreading/computerarchitectureandlogic.md)
 - [class07 Programming with JavaScript](./dailyreading/programmingwithjavascript.md)
+- [class08 Operators and Loops](./dailyreading/operatorsAndLoops.md)
 
 ### **just keep swimming** 
 1. Don't give up

@@ -1,3 +1,5 @@
+[Main](https://amberfalbo.github.io/learning-journal/)
+
 # Dynamic web pages with JavaScript
 
 ## Today's Code Along Thoughts

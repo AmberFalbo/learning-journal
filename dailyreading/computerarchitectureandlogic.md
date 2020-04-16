@@ -1,3 +1,5 @@
+[Main](https://amberfalbo.github.io/learning-journal/)
+
 # Computer Architecture and Logic
 
 

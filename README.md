@@ -17,7 +17,7 @@
 - [class05 Design web pages with CSS](./dailyreading/designwebpageswithcss.md)
 - [class06a Dynamic web pages with JavaScript](./dailyreading/dynamicwebpageswithjavascript.md)
 - [class06b Computer Architecture and Logic](./dailyreading/computerarchitectureandlogic.md)
-
+- [class07 Programming with JavaScript](./dailyreading/programmingwithjavascript.md)
 
 ### **just keep swimming** 
 1. Don't give up

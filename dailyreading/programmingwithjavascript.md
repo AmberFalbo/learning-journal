@@ -1,11 +1,12 @@
+[Main](https://amberfalbo.github.io/learning-journal/)
 
-`
+```
 MVC - Minimum Viable Code - remember not to over do it!
 Leave comment in code for myself!
 “ command / “  
 also make a todo list, todo tree  // TODO: “add something”
 paste the reqs right in the code so you know what to do THEN work on the fun stuff!
-`
+```
 
 
 class 7

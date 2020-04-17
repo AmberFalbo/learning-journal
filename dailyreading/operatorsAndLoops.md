@@ -20,8 +20,8 @@ Comparison and logical operators: 150-151, and 157
 ‘for’ and ‘while’ loops: 179-173, and 176
 
 
-## Comparison and logical operators:
-## Evaluating Conditions
+## Comparison and logical operators: Evaluating Conditions
+
 You can evaluate a situation by comparing one value in the script to what you expect it might be. The result will be a Boolean: **true** or **false**.
 
 

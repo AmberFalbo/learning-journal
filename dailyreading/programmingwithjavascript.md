@@ -56,24 +56,23 @@ Coding is telling the computer what you want it to do, only what you tell it to 
 Work for
 read 07
 
-```
-Reference
+>Reference
 Duckett: JavaScript & jQuery:
 Intro + Scripts: Pages 1 - 24
 Expressions + Operators: 74 - 79
 Functions: 88 - 94. (focus on this the most!!!)
-```
 
 
-### Vocab
-- Script
-- JavaScript's vocabulary
-- JavaScript's syntax
-- Programmatic problem solving
+
+## **Vocab**
+- Script - 
+- JavaScript's vocabulary - 
+- JavaScript's syntax - 
+- Programmatic problem solving - 
 - Expression
 - Operator
-- Function - functions let you group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you can reuse the function (rather than repeating the same set of statements). *Furthermore the statements in a function are not always executed when a page loads, so functions also offer a way to  **store** the steps needed to achieve a task.* ***for example, you might have a task that you only want to perform iff the user clicks on a specific element in the page.***
-  - Declaration
+- Function - **from the review** ***A reusable set of step-by-step instructions, potentially based on input, to potentiallly provide some outputs.***  Functions let you group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you can reuse the function (rather than repeating the same set of statements). *Furthermore the statements in a function are not always executed when a page loads, so functions also offer a way to  **store** the steps needed to achieve a task.* ***for example, you might have a task that you only want to perform iff the user clicks on a specific element in the page.***
+  - Declaration - The variable is registered using a given name within the corresponding scope.
   - Call - the call () allows for a function/method belonging to one object to be assigned and called for a different object. **call** () provides a new value of this to the function/method. With **call** (), you can write a method once and then inherit it in another object, without having to rewrite the method for the new object. *naming a function to perform a task so you make call on it later* 
   - Parameters - some functions need to be provided with information in order to achieve a given task. *for example, a function to calculate the area of a box would need to know its width and height. **Pieces of information passed to a function are known as parameters.**
   - Arguments
